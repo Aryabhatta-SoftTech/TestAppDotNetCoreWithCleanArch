@@ -1,0 +1,17 @@
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Domain.deps.json
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Domain.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\ref\TestApp.Domain.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Domain.pdb
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.AssemblyInfoInputs.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.AssemblyInfo.cs
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.csproj.CoreCompileInputs.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\ref\TestApp.Domain.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.pdb
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Core.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Infrastructure.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Core.pdb
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\bin\Debug\net5.0\TestApp.Infrastructure.pdb
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.csprojAssemblyReference.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Domain\obj\Debug\net5.0\TestApp.Domain.csproj.CopyComplete

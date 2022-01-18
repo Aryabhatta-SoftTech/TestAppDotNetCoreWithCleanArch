@@ -1,0 +1,11 @@
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\bin\Debug\net5.0\TestApp.Core.deps.json
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\bin\Debug\net5.0\TestApp.Core.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\bin\Debug\net5.0\ref\TestApp.Core.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\bin\Debug\net5.0\TestApp.Core.pdb
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\TestApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\TestApp.Core.AssemblyInfoInputs.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\TestApp.Core.AssemblyInfo.cs
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\TestApp.Core.csproj.CoreCompileInputs.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\TestApp.Core.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\ref\TestApp.Core.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Core\obj\Debug\net5.0\TestApp.Core.pdb

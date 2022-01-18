@@ -1,0 +1,12 @@
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\bin\Debug\net5.0\TestApp.Infrastructure.deps.json
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\bin\Debug\net5.0\TestApp.Infrastructure.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\bin\Debug\net5.0\ref\TestApp.Infrastructure.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\bin\Debug\net5.0\TestApp.Infrastructure.pdb
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.csprojAssemblyReference.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.AssemblyInfoInputs.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.AssemblyInfo.cs
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\ref\TestApp.Infrastructure.dll
+E:\BitBucket\gnWebSoft\TestApp\TestApp.Infrastructure\obj\Debug\net5.0\TestApp.Infrastructure.pdb
